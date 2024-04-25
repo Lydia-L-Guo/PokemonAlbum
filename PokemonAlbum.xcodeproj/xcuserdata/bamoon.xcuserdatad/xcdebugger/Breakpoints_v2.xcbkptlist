@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "33B3876F-67BB-4544-ACD2-BE1DD8518AC9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C7FE830-AEB3-48A1-81C1-8AEB17CE91F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoAlbum/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "configureDataSource()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E46BB324-23A2-44AD-9130-210756ECA8C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoAlbum/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "fetchPokemonImageURL(pkList:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E46BB324-23A2-44AD-9130-210756ECA8C4 - 374461e8378bf2b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoAlbum.ViewController.fetchPokemonImageURL(pkList: Swift.Array&lt;PhotoAlbum.PKListItem&gt;) -&gt; ()"
+                  moduleName = "PhotoAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bamoon/Documents/Xcode/PhotoAlbum/PhotoAlbum/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "260"
+                  endingLineNumber = "260"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "E46BB324-23A2-44AD-9130-210756ECA8C4 - 374461e8378bf2d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoAlbum.ViewController.fetchPokemonImageURL(pkList: Swift.Array&lt;PhotoAlbum.PKListItem&gt;) -&gt; ()"
+                  moduleName = "PhotoAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bamoon/Documents/Xcode/PhotoAlbum/PhotoAlbum/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "E46BB324-23A2-44AD-9130-210756ECA8C4 - 8885603a5ab33aea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoAlbum.ViewController.startLoad() -&gt; ()"
+                  moduleName = "PhotoAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bamoon/Documents/Xcode/PhotoAlbum/PhotoAlbum/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "E46BB324-23A2-44AD-9130-210756ECA8C4 - 374461e8378bf136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoAlbum.ViewController.fetchPokemonImageURL(pkList: Swift.Array&lt;PhotoAlbum.PKListItem&gt;) -&gt; ()"
+                  moduleName = "PhotoAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bamoon/Documents/Xcode/PhotoAlbum/PhotoAlbum/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15091D22-1BF7-4B46-A881-A9FE813DCF11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoAlbum/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "startLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15091D22-1BF7-4B46-A881-A9FE813DCF11 - e884b1f2bc4cc139"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PhotoAlbum.ViewController.startLoad() -&gt; Swift.Array&lt;PhotoAlbum.PKListItem&gt;"
+                  moduleName = "PhotoAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bamoon/Documents/Xcode/PhotoAlbum/PhotoAlbum/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "245"
+                  endingLineNumber = "245"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  uuid = "15091D22-1BF7-4B46-A881-A9FE813DCF11 - 21f674d1de06ff33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PhotoAlbum.ViewController.startLoad() -&gt; ()"
+                  moduleName = "PhotoAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bamoon/Documents/Xcode/PhotoAlbum/PhotoAlbum/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "246"
+                  endingLineNumber = "246"
+                  offsetFromSymbolStart = "912">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
